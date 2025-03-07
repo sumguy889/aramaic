@@ -109,15 +109,15 @@ random_responses = {
         "Laa! (No!)",
         "Laa, lo yit! (No, not really!)"
     ],
-    "do you speak aramaic": [
+    "do you speak aramaic/ḉyoda' aromai": [
         "Eyn, titray Aramit! (Yes, I speak Aramaic!)",
         "Titray Aramit, bass la mitmar basim! (I speak Aramaic, but not very well!)"
     ],
-    "what is your name": [
+    "what is your name/ Mo ušmax/ušmiš": [
         "Shmakh man? (What is your name?)",
         "Shmi/Usmi [your name]! (My name is [your name]!)"
     ],
-    "where are you from": [
+    "where are you from/Minna Haḉ/Haš": [
         "Ana mn Blöta. (I am from the village.)",
         "Ana mn Almänya. (I am from Germany.)",
         "Mnin it? (Where are you from?)"
