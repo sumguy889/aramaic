@@ -17,4 +17,4 @@ A simple Python-based English-to-Aramaic translator that provides translations f
 2. Download the `aramaic_translator.py` script.
 3. Run the script using:
    ```bash
-   python aramaic_translator.py
+   python Western_Neo_Aramaic.py
