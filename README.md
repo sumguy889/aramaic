@@ -1,5 +1,13 @@
 # aramaic
 aramaic translator
+## 📜 What is Aramaic?
+Aramaic is an ancient **Semitic language** that has been spoken for over 3,000 years. It was once the dominant language of the **Near East**, used by the **Arameans, Assyrians, Babylonian, and Persian Empires**. 
+
+🔹 **Jesus Christ** and his disciples spoke Aramaic.  
+🔹 Some parts of the **Old Testament** (Hebrew Bible) and the **Talmud** were written in Aramaic.  
+🔹 It is still spoken today in a few communities, including in **Ma'lula,Bax'a,Jubb'adin and other regions in Syria**, where the **Western_Neo_Aramaic** dialect is used.  
+
+This translator(so far) is based on words from the **Ma'lula dialect**, one of the last surviving forms of Western Aramaic.
 # Aramaic Translator
 
 A simple Python-based English-to-Aramaic translator that provides translations for common words and phrases. The program also includes **random responses** to common questions like "How are you?" and "Do you speak Aramaic?" in both **Aramaic** and **English**.
@@ -14,7 +22,7 @@ A simple Python-based English-to-Aramaic translator that provides translations f
 ## 🛠 Installation
 
 1. Ensure you have Python **3.x** installed.
-2. Download the `aramaic_translator.py` script.
+2. Download the `Western_Neo_Aramaic.py` script.
 3. Run the script using:
    ```bash
    python Western_Neo_Aramaic.py
