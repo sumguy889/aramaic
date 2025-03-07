@@ -33,7 +33,7 @@ translations = {
     'light': ('Bəraq/Barqa', 'נוּהְרָא'),
     'darkness': ('ḥāšok/ḥăšokā', 'חָשׁוּךְ'),
     'heaven': ('Shəmayya', 'שְׁמַיָּא'),
-    'Jesus':('Yešuaᶜ/Yeshua', 'יֵשׁוּעַ'),
+    'jesus':('Yešuaᶜ/Yeshua', 'יֵשׁוּעַ'),
     'where are you from': ('Min ayka at?', 'מִן אֵיכָּא אַתְּ?'),
     'do you speak aramaic': ('Metaret am Aramit?', 'מְתַּרֵּת אַם אַרָמִית?'),
     'what are you up to': ('Mah at abeyd(M)/abdah(f)', '{עַבְדָּה}מָה אַת עַבֵּיד?'),
