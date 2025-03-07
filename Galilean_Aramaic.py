@@ -2,17 +2,17 @@ import random
 
 # Dictionary for English to Galilean Aramaic translation and transliteration
 translations = {
-    'hello': ('Shalam', 'שְׁלָמָא'),
+    'hello': ('Shalam(Shlam)', 'שְׁלָמָא'),
     'peace': ('Shalam', 'שְׁלָמָא'),
     'teacher': ('Rabbi', 'רַבִּי'),
     'lord': ('Marya/Moryo', 'מָרְיָא'),
-    'god': ('Elaha', 'אֱלָהָא'),
+    'god': ('Elaha/Alaha', 'אֱלָהָא'),
     'father': ('Abba', 'אַבָּא'),
     'mother': ('Imma', 'אִמָּא'),
     'brother': ('Akh', 'אָחָא'),
     'love': ('Rakhma', 'רַחְמָא'),
-    'thank you': ('Tawdi', 'תָּוְדִי'),
-    'please': ('Baqasha', 'בָּקָשָׁא'),
+    'thank you': ('Yishar', 'תָּוְדִי'),
+    'please': ('(b-Bau)', 'בָּקָשָׁא'),
     'good': ('Tab', 'טַב'),
     'bad': ('Bisha', 'בִּישָׁא'),
     'yes': ('Eyn', 'אֵין'),
@@ -37,7 +37,7 @@ translations = {
 # Random responses for common phrases
 random_responses = {
     "how are you": [
-        "Ek at? Ana tab. (How are you? I am good.)",
+        "Mah lak? Ana tab. (How are you? I am good.)",
         "Ana tab! Tawdi! (I'm good! Thank you!)",
         "Bisha la. Shalamlak! (Not bad. Peace to you!)"
     ],
@@ -46,8 +46,8 @@ random_responses = {
         "Shalamlak/lek(f)! (Peace be upon you!)"
     ],
     "thank you": [
-        "Tawdi! (Thank you!)",
-        "Tawdi saggi! (Many thanks!)",
+        "Yishar! (Thank you!)",
+        "Tebu lak/lek saggin! (Many thanks!)",
         "Tawdi, Elaha nibarekhlakh! (Thank you, God bless you!)"
     ],
     "yes": [
@@ -65,6 +65,9 @@ random_responses = {
     "where are you from": [
         "Ana min Galil! (I am from Galilee!)",
         "Min ayka at? (Where are you from?)"
+    ],
+    "what are you up to": [
+        "Mah at abeyd(M)/abdah(f) (What are you up to)"
     ]
 }
 
