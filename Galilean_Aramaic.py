@@ -2,8 +2,9 @@ import random
 
 # Dictionary for English to Galilean Aramaic translation and transliteration
 translations = {
-    'hello': ('Shalam(Shlam)', 'שְׁלָמָא'),
-    'peace': ('Shalam', 'שְׁלָמָא'),
+    'hello': ('Shəlam(Shlam)', 'שְׁלָמָא'),
+    'peace': ('Shəlam', 'שְׁלָמָא'),
+    'city': ('Kərak/Karka', 'קְרַק'),
     'teacher': ('Rabbi', 'רַבִּי'),
     'lord': ('Marya/Moryo', 'מָרְיָא'),
     'god': ('Elaha/Alaha', 'אֱלָהָא'),
@@ -17,28 +18,32 @@ translations = {
     'bad': ('Bisha', 'בִּישָׁא'),
     'yes': ('Eyn', 'אֵין'),
     'no': ('Laa', 'לָא'),
-    'man': ('Gabra', 'גַּבְרָא'),
-    'woman': ('Anttha', 'אִנְתָּתָּא'),
-    'child': ('Yala', 'יַלָּא'),
-    'king': ('Malka', 'מַלְכָּא'),
-    'queen': ('Malkta', 'מַלְכְּתָּא'),
-    'holy': ('Qadisha', 'קָדִישָׁא'),
+    'man': ('Gabar/gobra/gabra', 'גַּבְרָא'),
+    'woman': ('iṭṭa/etā', 'אִטָּא'),
+    'child/son': ('ber/bar/bara', 'בַּר/בֵּר'),
+    'child/daughter':('bəra, barta, berta', 'בֶּרְתָּא'),
+    'king': ('Malka/Məlek', 'מַלְכָּא'),
+    'queen': ('malktəṭā/malakuta', 'מַלְכְּתָּא'),
+    'holy': ('qaddish/qaddisha', 'קָדִישָׁא'),
     'life': ('Hayye', 'חַיֵּי'),
     'death': ('Mota', 'מוּתָא'),
-    'water': ('Maya', 'מַיָּא'),
-    'bread': ('Lakhma', 'לַחְמָא'),
+    'water': ('mayin/mayim/mayya', 'מַיָּא'),
+    'bread': ('Pittā', 'פִּתָּא'),
     'world': ('Alma', 'עָלְמָא'),
-    'light': ('Nuhra', 'נוּהְרָא'),
-    'darkness': ('Heshekha', 'חֲשׁוֹכָּא'),
+    'light': ('Bəraq/Barqa', 'נוּהְרָא'),
+    'darkness': ('ḥāšok/ḥăšokā', 'חָשׁוּךְ'),
+    'heaven': ('Shəmayya', 'שְׁמַיָּא'),
+    'Jesus':('Yešuaᶜ/Yeshua', 'יֵשׁוּעַ'),
     'where are you from': ('Min ayka at?', 'מִן אֵיכָּא אַתְּ?'),
-    'do you speak aramaic': ('Metaret am Aramit?', 'מְתַּרֵּת אַם אַרָמִית?')
+    'do you speak aramaic': ('Metaret am Aramit?', 'מְתַּרֵּת אַם אַרָמִית?'),
+    'what are you up to': ('Mah at abeyd(M)/abdah(f)', '{עַבְדָּה}מָה אַת עַבֵּיד?'),
 }
 
 # Random responses for common phrases
 random_responses = {
     "how are you": [
         "Mah lak? Ana tab. (How are you? I am good.)",
-        "Ana tab! Tawdi! (I'm good! Thank you!)",
+        "Ana tab! Yishar! (I'm good! Thank you!)",
         "Bisha la. Shalamlak! (Not bad. Peace to you!)"
     ],
     "hello": [
@@ -48,7 +53,7 @@ random_responses = {
     "thank you": [
         "Yishar! (Thank you!)",
         "Tebu lak/lek saggin! (Many thanks!)",
-        "Tawdi, Elaha nibarekhlakh! (Thank you, God bless you!)"
+        "Yishar, Elaha nibarekhlakh! (Thank you, God bless you!)"
     ],
     "yes": [
         "Eyn! (Yes!)",
@@ -60,7 +65,7 @@ random_responses = {
     ],
     "do you speak aramaic": [
         "Eyn, metaret am Aramit! (Yes, I speak Aramaic!)",
-        "Metaret am Aramit, bass la tab saggi! (I speak Aramaic, but not very well!)"
+        "Metaret am Aramit, bass la tab saggin! (I speak Aramaic, but not very well!)"
     ],
     "where are you from": [
         "Ana min Galil! (I am from Galilee!)",
