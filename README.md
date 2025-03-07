@@ -5,7 +5,7 @@ Aramaic is an ancient **Semitic language** that has been spoken for over 3,000 y
 
 🔹 **Jesus Christ** and his disciples spoke Aramaic.  
 🔹 Some parts of the **Old Testament** (Hebrew Bible) and the **Talmud** were written in Aramaic.  
-🔹 It is still spoken today in a few communities, including in **Ma'lula,Bax'a,Jubb'adin and other regions in Syria**, where the **Western_Neo_Aramaic** dialect is used.  
+🔹 It is still spoken today in a few communities, including in **Ma'lula,Bax'a,Jubb'adin and other regions in Syria**, where the **Aramaic** language is still used.  
 
 This translator(so far) is based on words from the **Ma'lula dialect**, one of the last surviving forms of Western Aramaic.
 # Aramaic Translator
