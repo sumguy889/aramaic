@@ -4,7 +4,7 @@ import random
 english_to_aramaic = {
     "sun": "5im5a",
     "village": "Blöta",
-    "mother": "emma",
+    "mother": "emma/imma",
     "father": "abba",
     "god": "Aloha",
     "bone": "Germa",
@@ -78,28 +78,28 @@ english_to_aramaic = {
 # Random responses for common phrases
 # I also had to use common letters to not disturb the loop
 random_responses = {
-    "how are you": [
-        "Ek it? Ana brixa. (I'm fine, thank you!)",
+    "how are you/Ex ḉub(m)/ḉiba(f)": [
+        "Ana nkayyes(m)/nkayyeesa, tawdi/todi. (I'm fine, thank you!)",
         "Ana brixa! Ek it lakh? (I'm good! How about you?)",
-        "Brixa! Tawdi! (I'm well! Thanks!)"
+        "Brixa! Tawdi/todi! (I'm well! Thanks!)"
     ],
     "hello": [
-        "Slöma! (Hello!)",
-        "Slöma! Ek it? (Hello! How are you?)",
-        "Slöma u safra brixa! (Hello and good morning!)"
+        "Shloma/Slöma! (Hello!)",
+        "Shloma/Slöma! Ek it? (Hello! How are you?)",
+        "Shloma/Slöma u safra brixa/ibrix 'sofrax(m)/ibrix 'sofriš(f)! (Hello and good morning!)"
     ],
     "good morning": [
-        "Safra brixa! (Good morning!)",
-        "Safra brixa, Ek it? (Good morning! How are you?)"
+        "Safra brixa/ibrix 'sofrax(m)/'sofriš(f)! (Good morning!)",
+        "Safra brixa/ibrix 'sofrax(m)/'sofriš(f), ex ḉub? (Good morning! How are you?)"
     ],
     "good night": [
-        "Laila brixa! (Good night!)",
-        "Laila brixa, Slöma/shloma! (Good night, peace be with you!)"
+        "Leyla ibrex! (Good night!)",
+        "Leyla ibrex, Slöma/shloma loxun! (Good night, peace be with you!)"
     ],
     "thank you": [
-        "Tawdi! (Thank you!)",
-        "Tawdi saggi! (Many thanks!)",
-        "Tawdi, Aloha mberakh! (Thank you, God bless you!)"
+        "Tawdi/todi! (Thank you!)",
+        "Tawdi/todi saggi! (Many thanks!)",
+        "Tawdi/todi, Aloha mberakh! (Thank you, God bless you!)"
     ],
     "yes": [
         "Eyn! (Yes!)",
