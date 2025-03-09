@@ -128,8 +128,8 @@ random_responses = {
         "La masmak, mitbayel bashmey? (I don’t understand, can you repeat?)"
     ],
     "how old are you": [
-        "Kam shne it lakh? (How old are you?)",
-        "Ana [age] shne. (I am [age] years old.)"
+        "Kaṁ šne ʕandak/ʕandek? (How old are you?)",
+        "Ana ʕandi [age] šne. (I am [age] years old.)"
     ],
     "i love you": [
         "Rakhimna lakh! (I love you!)",
