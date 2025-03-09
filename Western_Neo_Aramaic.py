@@ -80,13 +80,13 @@ english_to_aramaic = {
 # I also had to use common letters to not disturb the loop
 random_responses = {
     "how are you/Ex ḉub(m)/ḉiba(f)": [
-        "Ana nkayyes(m)/nkayyeesa, tawdi/todi. (I'm fine, thank you!)",
-        "Ana brixa! Ek it lakh? (I'm good! How about you?)",
-        "Brixa! Tawdi/todi! (I'm well! Thanks!)"
+        "Ana nkayyes(m)/nkayyeesa, tudi/todi. (I'm fine, thank you!)",
+        "Ana nkayyes/nkayyeesa W enta/k? (I'm good! How about you?)",
+        "Ana nkayyes/nkayyeesa! tudi/todi! (I'm well! Thanks!)"
     ],
     "hello": [
         "Shloma/Slöma! (Hello!)",
-        "Shloma/Slöma! Ek it? (Hello! How are you?)",
+        "Shloma/Slöma!, Ex ḉub(m)/ḉiba(f) (Hello! How are you?)",
         "Shloma/Slöma u safra brixa/ibrix 'sofrax(m)/ibrix 'sofriš(f)! (Hello and good morning!)"
     ],
     "good morning": [
@@ -98,30 +98,30 @@ random_responses = {
         "Leyla ibrex, Slöma/shloma loxun! (Good night, peace be with you!)"
     ],
     "thank you": [
-        "Tawdi/todi! (Thank you!)",
-        "Tawdi/todi saggi! (Many thanks!)",
-        "Tawdi/todi, Aloha mberakh! (Thank you, God bless you!)"
+        "tudi/todi! (Thank you!)",
+        "tudi/todi saggi! (Many thanks!)",
+        "tudi/todi, Aloha mberakhlakh! (Thank you, God bless you!)"
     ],
     "yes": [
         "Eyn! (Yes!)",
-        "Eyn, besey! (Yes, of course!)"
+        "Eyn, tabʕan! (Yes, of course!)"
     ],
     "no": [
         "Laa! (No!)",
-        "Laa, lo yit! (No, not really!)"
+        "Laa, bahar! (No, not really!)"
     ],
     "do you speak aramaic/ḉyoda' aromai": [
-        "Eyn, titray Aramit! (Yes, I speak Aramaic!)",
-        "Titray Aramit, bass la mitmar basim! (I speak Aramaic, but not very well!)"
+        "Eyn, ana bḥakki Arāmōy/aromai!(Yes, I speak Aramaic!)",
+        "Ana bḥakki arāmōy/aromai, bass lā ktīr mnaḥ! (I speak Aramaic, but not very well!)"
     ],
     "what is your name/ Mo ušmax/ušmiš": [
-        "Shmakh man? (What is your name?)",
+        "Mo usmax/usmis (What is your name?)",
         "Shmi/Usmi [your name]! (My name is [your name]!)"
     ],
     "where are you from/Minna Haḉ/Haš": [
         "Ana mn Blöta. (I am from the village.)",
         "Ana mn Almänya. (I am from Germany.)",
-        "Mnin it? (Where are you from?)"
+        "Minna Haḉ (Where are you from?)"
     ],
     "i don't understand": [
         "La masmak. (I don't understand.)",
