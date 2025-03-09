@@ -45,9 +45,9 @@ english_to_aramaic = {
     "stone": "Xéfa",
     "day": "yöma",
     "house": "payta",
-    "brother": "Köna",
+    "brother": "Höna",
     "son": "EBRA",
-    "greeting": "Slöma",
+    "greeting": "Shloma/Slöma",
     "good": "Atyab",
     "better": "awrab",
     "bad": "xöla",
@@ -71,6 +71,7 @@ english_to_aramaic = {
     "what is your name": "Shmakh man?",
     "where are you from": "Mnin it?",
     "I don't understand": "La masmak",
+    "alot": "bahar",
     "how old are you": "Kam shne it lakh?",
     "I love you": "Rakhimna lakh"
 }
